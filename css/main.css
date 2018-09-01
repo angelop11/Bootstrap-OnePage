@@ -4,6 +4,7 @@ body{
 header{
 	padding-top: 75px;
 	height: 100vh;
+	background-color: #002A52;
 }
 #testimonial{
 	background-color: #f1f1f1;
@@ -16,4 +17,7 @@ header{
 }
 footer{
 	background: url(../img/smartphones.png);
+}
+.lista-contacto li{
+	font-size: 2rem;
 }
